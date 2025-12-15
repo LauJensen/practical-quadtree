@@ -4,7 +4,7 @@ A [Quadtree](https://en.wikipedia.org/wiki/Quadtree) is a tree data structure, w
 
 I recently wrote a little about [functional quadtrees](https://lbjgruppen.com/en/posts/functional-quadtree-clojure) and while that post did include a demo, it left a big exercise with the reader: Making functional quadtrees with multiple focal points like... Boids!
 
-If you want to understand how exactly the code works, it's explained in [this blogpost](https://lbjgruppen.com/en/posts/TODO)
+If you want to understand how exactly the code works, it's explained in [this blogpost](https://lbjgruppen.com/en/posts/flocking-quadtrees)
 
 # Building and running
 
