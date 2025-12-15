@@ -126,7 +126,7 @@
 
   ;; Draw the boids
   (doseq [[x y] (map :position (:objects tree))]
-    (.fillRect ctx x y 2 2))
+    (.fillRect ctx x y 4 4))
 
   (when-let [children (:children tree)]
     (doseq [c children]
